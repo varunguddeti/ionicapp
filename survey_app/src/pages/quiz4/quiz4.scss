@@ -1,0 +1,46 @@
+$text-color:        #fff;
+$background-color:  #9b59b6;
+$colors: (
+  primary:    #32db64,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222
+);
+.ios, .md {
+
+    page-quiz4 {
+     
+
+        ion-slide {
+            align-items: flex-start;
+        }
+
+        ion-item {
+            margin-bottom: 5px;
+            font-size: 1.2em;
+            background-color: map-get($colors, primary);
+        }
+
+        flash-card {
+            color: #000;
+
+            img {
+                width: 70%;
+                height: auto;
+            }
+        }
+
+        .start-slide {
+            justify-content: center;
+            align-items: center;
+
+            button {
+                font-size: 1.3em;
+                font-weight: bold;
+            }
+        }
+
+    }
+
+}

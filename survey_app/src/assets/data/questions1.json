@@ -1,0 +1,41 @@
+{
+    "questions": [
+ 
+        {
+            
+            "questionText": "Do you think GST will be easier to comply with or difficult??",
+            "answers": [
+                {"answer": "Easier", "correct": true, "selected": false},
+                {"answer": "Difficult", "correct": false, "selected": false},
+                {"answer": "Dont know", "correct": false, "selected": false}
+            ]
+        },
+        {
+            
+            "questionText": "Do you think GST is a fair tax",
+            "answers": [
+                {"answer": "Yes", "correct": false, "selected": false},
+                {"answer": "No", "correct": true, "selected": false},
+                {"answer": "Maybe", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What kinds of expenditure will be the most affected by GST?",
+            "answers": [
+                {"answer": "Necessary", "correct": false, "selected": false},
+                {"answer": "Luxury", "correct": false, "selected": false},
+                {"answer": "Entertainment", "correct": true, "selected": false},
+                {"answer": "others", "correct": true, "selected": false}
+            ]
+        },
+        {
+ "questionText": "Do you support GST?",
+            "answers": [
+                {"answer": "Yes", "correct": false, "selected": false},
+                {"answer": "No", "correct": false, "selected": false}
+               
+            ]
+        }
+    ]
+}

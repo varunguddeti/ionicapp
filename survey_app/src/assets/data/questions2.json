@@ -1,0 +1,60 @@
+{
+    "questions": [
+ 
+        {
+            
+            "questionText": "How much time do you currently spend on service tax compliances? Do you think this will increase or reduce in the long term with the introduction of GST?",
+            "answers": [
+                {"answer": "Less than 25%", "correct": true, "selected": false},
+                {"answer": "More than 25%", "correct": false, "selected": false},
+                {"answer": "More than 50%", "correct": false, "selected": false},
+                {"answer": "Will increase", "correct": false, "selected": false},
+                {"answer": "Will decrease", "correct": false, "selected": false}
+            ]
+        },
+        {
+            
+            "questionText": "Does your business have a policy/plan in place specifically to cope with the proposed GST?",
+            "answers": [
+                {"answer": "Yes", "correct": false, "selected": false},
+                {"answer": "No", "correct": true, "selected": false}
+               
+            ]
+        },
+        {
+           
+            "questionText": "Is your current software system equipped to handle the proposed GST?",
+            "answers": [
+                {"answer": "Yes", "correct": false, "selected": false},
+                {"answer": "No", "correct": false, "selected": false},
+                {"answer": "Not applicable", "correct": true, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "How will GST affect your consumption behaviour?",
+            "answers": [
+                {"answer": "Comsume more goods", "correct": false, "selected": false},
+                {"answer": "Consume less goods", "correct": false, "selected": false}
+            ]
+        },
+ {
+           
+            "questionText": "Do you think all businesses need to be registered under GST?",
+            "answers": [
+                {"answer": "Yes", "correct": false, "selected": false},
+                {"answer": "No", "correct": false, "selected": false}
+            ]
+        },
+ {
+           
+            "questionText": "Do you think GST will burden the people/consumer?",
+            "answers": [
+                {"answer": "Yes", "correct": false, "selected": false},
+                {"answer": "No", "correct": false, "selected": false}
+            ]
+        }
+ 
+ 
+    ]
+}

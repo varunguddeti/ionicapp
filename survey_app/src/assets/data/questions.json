@@ -1,0 +1,51 @@
+{
+    "questions": [
+ 
+        {
+            
+            "questionText": "The tax system is all about balance between minimizing compliance costs and maximising revenue?",
+            "answers": [
+                {"answer": "agree", "correct": true, "selected": false},
+                {"answer": "neither agree nor disagree", "correct": true, "selected": false},
+                {"answer": "disagree", "correct": true, "selected": false}
+            ]
+        },
+        {
+            
+            "questionText": "Is the available legislation in relation to the proposed GST satisfactory or do you feel need for more clarity?",
+            "answers": [
+                {"answer": "Yes - Satisfactory", "correct": true, "selected": false},
+                {"answer": "Maybe - Need some clarity", "correct": true, "selected": false},
+                {"answer": "No – Need a lot more clarity", "correct": true, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "The taxability of the interstate transaction under the proposed GST is based on the following: Central GST ‘CGST’/ State GST – ‘SGST’ and Integrated GST – ‘IGST’ C-VAT model for interstate transactions Which of the above do you think is a better option??",
+            "answers": [
+                {"answer": "IGST", "correct": true, "selected": false},
+                {"answer": "C-VAT", "correct": true, "selected": false}
+                
+            ]
+        },
+         {
+            
+            "questionText": "Will GST affect any of the following?",
+            "answers": [
+                {"answer": "Tourism", "correct": true, "selected": false},
+                {"answer": "Imports and exports", "correct": true, "selected": false},
+                {"answer": "None", "correct": true, "selected": false}
+            ]
+        },
+         {
+            
+            "questionText": "Do you think that the proposed GST is a predominantly compliance tax or a technically oriented tax?",
+            "answers": [
+                {"answer": "Compliance Tax", "correct": true, "selected": false},
+                {"answer": "Technical Tax", "correct": true, "selected": false},
+                {"answer": "Both", "correct": true, "selected": false}
+            ]
+        }
+ 
+    ]
+}
